@@ -7,11 +7,11 @@
 ---
 ## Programming languages that I speak:
 > - Python 🐍(intermediate)
+> - C++ © (beginner)
 > - SQL 🏦 (beginner)
 > - HTML/ CSS 🕸 (beginner)
 ---
 ## Programming languages I want to learn:
-> - C++ / C# (need it for my future job)
 > - Delphi (	-""-	)
 > - JavaScript (improving my web-development skills)
 > - more Database oriented languages in general
