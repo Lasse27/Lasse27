@@ -5,8 +5,9 @@
 > ##### I'm a junior software developer from germany.
 > ##### Currently I'm studying informatics near Bremen, Germany.
 
-## Programming languages that I speak:
+## Programming languages:
 > - Python 🐍(intermediate)
+> - C# (intermediate)
 > - C++ © (beginner)
 > - SQL 🏦 (beginner)
 > - HTML/ CSS 🕸 (beginner)
