@@ -6,7 +6,7 @@
 > ##### Currently I'm studying informatics near Bremen, Germany.
 
 ## How to reach me:
-- Email: llhillen1403@gmail.com
+Email: lassehillen@gmx.de
 
 <!---
 Lasse27/Lasse27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
